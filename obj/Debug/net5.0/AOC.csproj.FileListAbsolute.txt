@@ -1,0 +1,16 @@
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\AOC.exe
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\AOC.deps.json
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\AOC.runtimeconfig.json
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\AOC.runtimeconfig.dev.json
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\AOC.dll
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\ref\AOC.dll
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\bin\Debug\net5.0\AOC.pdb
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.csprojAssemblyReference.cache
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.AssemblyInfoInputs.cache
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.AssemblyInfo.cs
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.csproj.CoreCompileInputs.cache
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.dll
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\ref\AOC.dll
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.pdb
+C:\Users\mcho\OneDrive - GRACE WORLDWIDE (AUSTRALIA) PTY LTD\Documents\AOC\obj\Debug\net5.0\AOC.genruntimeconfig.cache
