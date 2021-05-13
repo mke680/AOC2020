@@ -3,4 +3,4 @@
 
 Advent of Code solutions for 2020 up to Day 16.
 
-Majority of Solutions are written in both PowerShell and C#.
+Solutions are written in PowerShell and C# *Up to Day 7*.
